@@ -13,3 +13,5 @@ Add the Toggle function and checkbox to check completed or not completed task.
 Edit a added Todo task and submit it using map function.
 
 Use the UseEffect hook to save new todos into localstorage.
+
+https://github.com/srividya-sundaravadivelu/uqwxd-react_labs/blob/main/todo_list.png
